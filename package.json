@@ -1,0 +1,14 @@
+{
+  "name": "ou_parser",
+  "version": "1.0.0",
+  "description": "parses OUs for sheets that matter",
+  "main": "extractPages.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bcr",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx-to-json": "^0.3.0"
+  }
+}
